@@ -1,8 +1,8 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "transparent",
+  "productName": "stickyPet",
   "version": "0.1.0",
-  "identifier": "com.shane.transparent",
+  "identifier": "com.shane.stickyPet",
   "build": {
     "beforeDevCommand": "npm run dev",
     "devUrl": "http://localhost:1420",
@@ -12,7 +12,7 @@
   "app": {
     "windows": [
       {
-        "title": "transparent",
+        "title": "stickyPet",
         "maximized": true,
         "decorations": false,
         "transparent": true
